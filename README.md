@@ -6,6 +6,11 @@ Support OFRP, SHRP, TWRP compilation and production
 
 ## Release Notes
 ```
+= 2022/10/17
+- Update workflow to remove warnings
+  - Move environment to ubuntu-20.04 (18.04 is deprecated)
+  - Drop support for 5.1 branch (due to above upgrade)
+
 = 2022/07/06
 - Add support for 5.1 branch
 
